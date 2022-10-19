@@ -3,7 +3,7 @@
     {
       "name": "Default Test Runner",
       "setup": "",
-      "run": "gradle test",
+      "run": "gradle test --tests HelloWorldTest",
       "input": "",
       "output": "",
       "comparison": "included",
