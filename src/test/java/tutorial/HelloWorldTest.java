@@ -9,7 +9,7 @@ class HelloWorldTest {
     public void HelloWorldNormalNumbers() {
 
         HelloWorld hw = new HelloWorld();
-        Assertions.assertEquals("1", hw.convert(1));
+        Assertions.assertEquals("1", hw.convert(13944));
         Assertions.assertEquals("2", hw.convert(2));
     }
 
